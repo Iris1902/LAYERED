@@ -1,4 +1,3 @@
-# Usar nginx como servidor web para aplicación estática
 FROM nginx:alpine
 
 # Crear directorio de trabajo
